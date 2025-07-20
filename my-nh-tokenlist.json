@@ -1,0 +1,25 @@
+{
+  "name": "NH Token",
+  "symbol": "NH",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "NH is a sustainable trade token backed by wBTC liquidity.",
+  "website": "https://yourprojectwebsite.com",
+  "explorer": "https://polygonscan.com/token/0xF930Cf4150F7cb1108B30Df610f07188Fd794398",
+  "status": "active",
+  "id": "0xF930Cf4150F7cb1108B30Df610f07188Fd794398"
+}
+{
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "name": "NH Token List",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xF930Cf4150F7cb1108B30Df610f07188Fd794398",
+      "name": "NH Token",
+      "symbol": "NH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Nishant939/blockchains-polygon-assets-NH_TOKEN_ADDRESS-logo.png/new/master/main/logo.png"
+    }
+  ]
+}
