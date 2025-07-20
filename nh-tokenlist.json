@@ -1,0 +1,19 @@
+{
+  "name": "NH Token List",
+  "timestamp": "2025-07-19T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xF930Cf4150F7cb1108B30Df610f07188Fd794398",
+      "name": "NH Token",
+      "symbol": "NH",
+      "decimals": 18,
+      "logoURI": "https://github.com/Nishant939/blockchains-polygon-assets-NH_TOKEN_ADDRESS-logo.png/tree/master"
+    }
+  ]
+}
